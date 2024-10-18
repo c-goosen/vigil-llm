@@ -24,7 +24,7 @@ setup(
         'streamlit==1.26.0',
         'numpy==1.25.2',
         'loguru==0.7.2',
-        'nltk==3.8.1',
+        'nltk>==3.8.1',
         'datasets==2.15.0'
     ],
     python_requires=">=3.9",
