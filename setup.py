@@ -11,7 +11,7 @@ setup(
     url="https://github.com/deadbits/vigil-llm",
     packages=find_packages(),
     install_requires=[
-        'openai==1.0.0',
+        'openai>=1.0.0',
         'transformers==4.36.0',
         'pydantic==1.10.7',
         'Flask==3.0.0',
