@@ -20,7 +20,7 @@ setup(
         'pandas==2.0.0',
         'pyarrow==14.0.1',
         'sentence-transformers==2.2.2',
-        'chromadb==0.4.17',
+        'chromadb>=0.4.17',
         'streamlit==1.26.0',
         'numpy==1.25.2',
         'loguru==0.7.2',
